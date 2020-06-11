@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/news-application/static/css/main.94919180.chunk.css",
+    "main.js": "/news-application/static/js/main.fc51d032.chunk.js",
+    "main.js.map": "/news-application/static/js/main.fc51d032.chunk.js.map",
+    "runtime-main.js": "/news-application/static/js/runtime-main.86e1ad1e.js",
+    "runtime-main.js.map": "/news-application/static/js/runtime-main.86e1ad1e.js.map",
+    "static/js/2.87f6dac6.chunk.js": "/news-application/static/js/2.87f6dac6.chunk.js",
+    "static/js/2.87f6dac6.chunk.js.map": "/news-application/static/js/2.87f6dac6.chunk.js.map",
+    "index.html": "/news-application/index.html",
+    "precache-manifest.f132c11ffdf0d734818463bad2ac65b6.js": "/news-application/precache-manifest.f132c11ffdf0d734818463bad2ac65b6.js",
+    "service-worker.js": "/news-application/service-worker.js",
+    "static/css/main.94919180.chunk.css.map": "/news-application/static/css/main.94919180.chunk.css.map",
+    "static/js/2.87f6dac6.chunk.js.LICENSE.txt": "/news-application/static/js/2.87f6dac6.chunk.js.LICENSE.txt",
+    "static/media/E732151C-96E3-41D1-B60D-52CCD4963757.jpeg": "/news-application/static/media/E732151C-96E3-41D1-B60D-52CCD4963757.20acadc7.jpeg",
+    "static/media/fonts.css": "/news-application/static/media/ofont.ru_Proxima Nova.386c8ff0.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86e1ad1e.js",
+    "static/js/2.87f6dac6.chunk.js",
+    "static/css/main.94919180.chunk.css",
+    "static/js/main.fc51d032.chunk.js"
+  ]
+}
