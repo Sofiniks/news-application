@@ -1,0 +1,25 @@
+.Navigation {
+    font-size: 15px;
+}
+
+.Navigation ul{
+    display: flex;
+}
+
+.Navigation li {
+    margin-left: 20px;
+    list-style: none;
+}
+
+.Navigation ul li a {
+    text-decoration: none;
+    color: #333D51;
+}
+
+.Navigation ul li a.active {
+    color: blue;
+}
+
+
+
+

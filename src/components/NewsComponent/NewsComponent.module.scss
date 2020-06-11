@@ -1,0 +1,36 @@
+.NewsComponent {
+    width: 320px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.newsText {
+    border-left: 2px solid #004FEC;
+    padding-left: 15px;
+    cursor: pointer;
+
+    &:hover {
+        color: white;
+        background-color: #004FEC;
+    }
+}
+
+.newsInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgba(#333D51, .5);
+    font-size: 18px;
+    align-items: flex-end;
+}
+
+.newsSource {
+    text-transform: lowercase;
+    padding-left: 15px;
+}

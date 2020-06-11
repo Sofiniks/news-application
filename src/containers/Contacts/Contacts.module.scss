@@ -1,0 +1,43 @@
+.Contacts {
+    width: 1100px;
+    min-height: 100vh;
+    max-height: 100%;
+    margin: 0 auto;
+    font-family: 'Proxima Nova';
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #333D51;
+}
+
+.Contacts main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.name {
+    border-left: 2px solid #004FEC;
+    padding-left: 15px;
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+.email {
+    margin-top: 40px;
+}
+
+.job {
+    margin-top: 60px;
+    opacity: .5;
+}
+
+.skills {
+    margin-top: 30px;
+}
+
+.picture img{
+    background-size: cover;
+    width: 320px;
+    height: 420px;
+}
